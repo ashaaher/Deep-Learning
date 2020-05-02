@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning Assignment 0
+Deep Learning Assignments
